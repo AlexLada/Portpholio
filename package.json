@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && craco build",
-    "start": "next start && craco start",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint",
-    "test": "craco test",
     "eject": "react-scripts eject"
   },
   "dependencies": {
